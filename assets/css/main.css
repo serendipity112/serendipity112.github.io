@@ -218,7 +218,8 @@
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4acaa8 !important;
+							/*color: #4acaa8 !important;*/
+							color: #D8BFD8 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -299,7 +300,8 @@
 					text-transform: none !important;
 					margin-right: 2%;
 					display: inline-block;
-					color: #4acaa8;
+					/*color: #4acaa8;*/
+					color: #D8BFD8;
 				}
 
 /* Features */
